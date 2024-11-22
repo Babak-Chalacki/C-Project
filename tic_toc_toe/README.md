@@ -17,7 +17,7 @@ This is a simple console-based Tic-Tac-Toe game implemented in C++. It supports 
 ## Installation
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone https://github.com/yourusername/tictactoe.git
+   git clone https://github.com/Babak-Chalacki/Cpp-Projects/edit/main/tic_toc_toe.git
    cd tictactoe
    ```
 2. **Save the Code**: Copy the code into `tictactoe.cpp`.
@@ -62,6 +62,3 @@ Computer (O) wins!
 - Smarter AI for single-player mode.
 - Better input validation.
 - Enhanced user interface with graphics.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
