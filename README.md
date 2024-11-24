@@ -16,11 +16,11 @@ Here are some of the exciting projects you can expect to find in this repository
 2. **Calculator** <span style="color: red;">Not Done</span> ❌  
    A simple command-line calculator that performs basic arithmetic operations.
 
-3. **Hangman Game** <span style="color: red;">Not Done</span>  ❌ 
+3. **Hangman Game** <span style="color: red;">Not Done</span>  ❌ <br>
    A fun word-guessing game where players try to guess a hidden word before running out of attempts.
 
 4. **File Compression Tool** <span style="color: red;">Not Done</span> ❌  
    A basic implementation of file compression algorithms to reduce file sizes.
 
-5. **Maze Solver** <span style="color: red;">Not Done</span>  ❌ 
+5. **Maze Solver** <span style="color: red;">Not Done</span>  ❌ <br>
    An algorithm that finds the shortest path through a maze using backtracking or breadth-first search.
